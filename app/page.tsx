@@ -58,7 +58,7 @@ export default function Home() {
         <section className="hero container">
           <div className="hero-blue">
             <div>
-              <h1><small>Hi I'm</small> Jessica Atubi</h1>
+              <h1><small>Hi I&apos;m</small> Jessica Atubi</h1>
             </div>
             <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis,
