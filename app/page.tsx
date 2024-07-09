@@ -164,7 +164,7 @@ export default function Home() {
               <figure>
                 <div>
                   <img src="./assets/code.avif" alt="workplace-1" width="100%" />
-                  <figcaption>Workplace - Winner's Chapel Cambridge</figcaption>
+                  <figcaption>Workplace - Winner&apos;s Chapel Cambridge</figcaption>
                 </div>
               </figure>
               <h3>Front-End Developer</h3>
@@ -249,15 +249,15 @@ export default function Home() {
             <div className="chat-info">
               <h3>Azure AI Chatbot</h3>
               <p>
-                I've put together a chatbot here which knows all my skills, my
+                I&apos;ve put together a chatbot here which knows all my skills, my
                 experience and has a copy of my CV/Resume. You can use it to ask
-                questions about me to get a better idea of who I am and what I've
+                questions about me to get a better idea of who I am and what I&apos;ve
                 done
               </p>
               <p>
                 You can also download my resume here if you want to take a look at
-                it. I'm currently looking for new opportunities so if you have a
-                project you think I'd be a good fit for, please be in touch!
+                it. I&apos;m currently looking for new opportunities so if you have a
+                project you think I&apos;d be a good fit for, please be in touch!
               </p>
               <a href="">Download Resume</a>
             </div>
@@ -267,7 +267,7 @@ export default function Home() {
                   <li>
                     <span className="avatar bot">AI</span>
                     <div className="message">
-                      Hi, I'm a friendly chatbot that lets you interact with this
+                      Hi, I&apos;m a friendly chatbot that lets you interact with this
                       portfolio and CV. How can i help.
                     </div>
                   </li>
